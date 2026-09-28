@@ -6,16 +6,8 @@
 ### 👨‍💻 Hakkımda
 - 🔭 Şu anda **yerel LLM entegrasyonları, Flutter uygulamaları** üzerine çalışıyorum.
 - 💻 Uzmanlık alanlarım: **C#, .NET, Windows Forms, Nesne Yönelimli Programlama (OOP) ve SQL Server**.
-- 📚 Geliştirdiğim başlıca projeler: Eczane Otomasyon Sistemleri, Siber Güvenlik Simülasyonları (Virüs_Antivirüs) ve Medikal Rapor Tercümanı.
+- 📚 Geliştirdiğim başlıca projeler: Sağlık Uygulamaları, Eczane Otomasyon Sistemleri, Siber Güvenlik Simülasyonları (Virüs_Antivirüs) ve Medikal Rapor Tercümanı.
 - 🎯 Hedefim: İstikrarlı ve ölçeklenebilir yazılım projeleri üretmek, yapay zeka alanında kendimi geliştirmek.
-
----
-
-### 📊 Dinamik İstatistikler
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myusufylk&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="150" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusufylk&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150" alt="En Çok Kullanılan Diller" />
-</div>
 
 ---
 
@@ -39,9 +31,7 @@
 <a href="https://www.linkedin.com/in/mehmet-yusuf-yiliko%C4%9Flu-4aab00337/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:yusufylkoglu@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
 
 <br><br>
 <div align="center">
