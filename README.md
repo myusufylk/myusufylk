@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Benimle Bağlantı Kurun
-<a href="https://linkedin.com/in/Mehmet YUSUF YILIKOĞLU" target="_blank">
+[<a href="https://linkedin.com/in/Mehmet YUSUF YILIKOĞLU" target="_blank">](https://www.linkedin.com/in/mehmet-yusuf-yiliko%C4%9Flu-4aab00337/)
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:MAIL_ADRESIN@gmail.com" target="_blank">
